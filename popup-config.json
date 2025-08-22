@@ -2,16 +2,20 @@
   "version": 1,
   "enabled": true,
 
-  "id": "discord_aug2025",
+  "id": "discord_aug2025_01",
   "mode": "once",                    
 
-  "title": "Join our Discord!",
-  "message": "Get updates, events, and early game drops on our server.",
+  "title": "New Announcment System!",
+  "message": "This is a test of a new announcment system that works dynamically. There should be buttons below for a d1scord and a Kofi (like patreon)",
   "cta": {
-    "label": "Join Now",
+    "label": "D1scord",
     "href": "https://discord.gg/5rxbeUuEhZ",
     "target": "_blank"
   },
+  {
+      "label": "Kofi",
+      "href": "https://ko-fi.com/catman6112"
+  }
 
   "dismissible": true,               
 
