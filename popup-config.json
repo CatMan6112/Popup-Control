@@ -2,10 +2,10 @@
   "version": 1,
   "enabled": true,
 
-  "id": "discord_aug2025_01",
+  "id": "discord_aug2025_02",
   "mode": "once",
 
-  "title": "New Announcement System!",
+  "title": "New Announcement System! x2",
   "message": "This is a test of a new announcement system that works dynamically. There should be buttons below for a Discord and a Ko‑fi (like Patreon).",
 
   "buttons": [
