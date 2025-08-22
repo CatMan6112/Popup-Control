@@ -1,0 +1,25 @@
+{
+  "version": 1,
+  "enabled": true,
+
+  "id": "discord_aug2025",
+  "mode": "once",                    
+
+  "title": "Join our Discord!",
+  "message": "Get updates, events, and early game drops on our server.",
+  "cta": {
+    "label": "Join Now",
+    "href": "https://discord.gg/5rxbeUuEhZ",
+    "target": "_blank"
+  },
+
+  "dismissible": true,               
+
+  "start": "2025-08-01T00:00:00Z",   
+  "end":   null,                     
+
+  "path": "*",                       
+  "frequencyDays": 0,                
+                                     
+  "sessionRespect": true             
+}

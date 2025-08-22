@@ -1,0 +1,26 @@
+"mode":
+ Can either be "once" or "manual"
+   Manual gives direct control over when it shows up, so as long as the "enabled" value is set to true, it shows up on the page until closed.
+
+"dismissible":
+ Allows the user to close it.
+  Setting it to false removes the ability for an close button. Why you would use it? Beyond me.
+
+"Start":
+ Sets time for popup to start appearing
+
+"End":
+ Sets time for popup to start disappearing
+
+"Path":
+ Allows where a popup can show
+
+"frequencyDays":
+ 0 = never seeing it again for same id,
+ >0 = seeing it X days after seeing it.
+  e.g. 2, would mean you would see the popup again after closing it or seeing it 2 days ago.
+
+"sessionRespect":
+ True = saving having the popup closed for the entire browser session.
+ False = Comes back on every page reload
+
