@@ -3,27 +3,30 @@
   "enabled": true,
 
   "id": "discord_aug2025_01",
-  "mode": "once",                    
+  "mode": "once",
 
-  "title": "New Announcment System!",
-  "message": "This is a test of a new announcment system that works dynamically. There should be buttons below for a d1scord and a Kofi (like patreon)",
-  "cta": {
-    "label": "D1scord",
-    "href": "https://discord.gg/5rxbeUuEhZ",
-    "target": "_blank"
-  },
-  {
-      "label": "Kofi",
-      "href": "https://ko-fi.com/catman6112"
-  }
+  "title": "New Announcement System!",
+  "message": "This is a test of a new announcement system that works dynamically. There should be buttons below for a Discord and a Ko‑fi (like Patreon).",
 
-  "dismissible": true,               
+  "buttons": [
+    {
+      "label": "Discord",
+      "href": "https://discord.gg/5rxbeUuEhZ",
+      "target": "_blank"
+    },
+    {
+      "label": "Ko‑fi",
+      "href": "https://ko-fi.com/catman6112",
+      "target": "_blank"
+    }
+  ],
 
-  "start": "2025-08-01T00:00:00Z",   
-  "end":   null,                     
+  "dismissible": true,
 
-  "path": "*",                       
-  "frequencyDays": 0,                
-                                     
-  "sessionRespect": true             
+  "start": "2025-08-01T00:00:00Z",
+  "end": null,
+
+  "path": "*",
+  "frequencyDays": 0,
+  "sessionRespect": true
 }
