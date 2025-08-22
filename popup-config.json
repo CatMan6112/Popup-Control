@@ -2,23 +2,24 @@
   "version": 1,
   "enabled": true,
 
-  "id": "discord_aug2025_02",
+  "id": "announcment_aug2025_03",
   "mode": "once",
 
-  "title": "New Announcement System! x2",
-  "message": "This is a test of a new announcement system that works dynamically. There should be buttons below for a Discord and a Ko‑fi (like Patreon).",
+  "title": "New Announcement System!",
+  "message": "<p>This is a <b>NEW</b> announcment system! I can edit this whenever without even touching the serverside code! <br><br> Some more news, We have a partner! VORTEX is our first partner, which you can see in the brand new PARTNER page! Just click the hand shaking button at the top, bam! <br><br> We also have a KoFi now! If you dont know what Kofi is, it's like a patreon! There's exclusive roles and stuff if you donate or become a monthly member. <br><br> With that, we get some bug fixes! The 404 page now takes you to kugelfoods.com and not crownprincehospital anymore!</p>",
 
   "buttons": [
-    {
-      "label": "Discord",
-      "href": "https://discord.gg/5rxbeUuEhZ",
-      "target": "_blank"
-    },
     {
       "label": "Ko‑fi",
       "href": "https://ko-fi.com/catman6112",
       "target": "_blank"
-    }
+    },
+      {
+      "label": "Partners",
+      "href": "https://kugelfoods.com/partners.html",
+      "target": "_blank"
+    },
+
   ],
 
   "dismissible": true,
