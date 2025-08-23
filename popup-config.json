@@ -14,12 +14,11 @@
       "href": "https://ko-fi.com/catman6112",
       "target": "_blank"
     },
-      {
+    {
       "label": "Partners",
       "href": "https://kugelfoods.com/partners.html",
       "target": "_blank"
-    },
-
+    }
   ],
 
   "dismissible": true,
