@@ -2,11 +2,11 @@
   "version": 1,
   "enabled": true,
 
-  "id": "announcment_aug2025_04.5",
+  "id": "announcment_aug2025_05",
   "mode": "once",
 
-  "title": "New Announcement System!",
-  "message": "<p>This is a <b>NEW</b> announcment system! I can edit this whenever without even touching the serverside code! <br><br> Some more news, We have a partner! VORTEX is our first partner, which you can see in the brand new PARTNER page! Just click the hand shaking button at the top, bam! <br><br> We also have a KoFi now! If you dont know what Kofi is, it's like a patreon! There's exclusive roles and stuff if you donate or become a monthly member. <br><br> With that, we get some bug fixes! The 404 page now takes you to kugelfoods.com and not crownprincehospital anymore!</p>",
+  "title": "Free Bird is down :C",
+  "message": "<p>Free Bird has been temporarily disabled as my internet is being flooded with requests from all you goobers. I'll keep you posted.</p>",
 
   "buttons": [
     {
